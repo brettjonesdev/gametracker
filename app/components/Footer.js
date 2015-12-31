@@ -13,8 +13,7 @@ export default class Footer extends React.Component {
     return (
       <footer>
         <div className="well well-lg">
-          <Link to="top">TOP</Link>&nbsp;|&nbsp;
-          <a href="https://github.com/koba04/react-boilerplate">github</a>
+          Created by <a href="http://twitter.com/brettjonesdev">@brettjonesdev</a>. Source code available on <a href="https://github.com/brettjonesdev/gametracker">github</a>
         </div>
       </footer>
     );
